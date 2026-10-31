@@ -1,0 +1,12 @@
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/bin/Debug/net11.0/InventoryManagement.Domain.deps.json
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/bin/Debug/net11.0/InventoryManagement.Domain.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/bin/Debug/net11.0/InventoryManagement.Domain.pdb
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/InventoryManagement.Domain.AssemblyInfoInputs.cache
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/InventoryManagement.Domain.AssemblyInfo.cs
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/InventoryManagement.Domain.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/refint/InventoryManagement.Domain.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/InventoryManagement.Domain.pdb
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/ref/InventoryManagement.Domain.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Domain/obj/Debug/net11.0/Inventor.631CB0DA.Up2Date

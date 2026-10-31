@@ -1,0 +1,15 @@
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/bin/Debug/net11.0/InventoryManagement.Application.deps.json
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/bin/Debug/net11.0/InventoryManagement.Application.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/bin/Debug/net11.0/InventoryManagement.Application.pdb
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/bin/Debug/net11.0/InventoryManagement.Domain.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/bin/Debug/net11.0/InventoryManagement.Domain.pdb
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.csproj.AssemblyReference.cache
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.AssemblyInfoInputs.cache
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.AssemblyInfo.cs
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.csproj.CoreCompileInputs.cache
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/Inventor.0D5EB3FB.Up2Date
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/refint/InventoryManagement.Application.dll
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/InventoryManagement.Application.pdb
+/Users/samerrazzaq/Desktop/InventoryManagement/InventoryManagement.Application/obj/Debug/net11.0/ref/InventoryManagement.Application.dll
