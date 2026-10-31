@@ -60,7 +60,7 @@ Once the application is running, open your browser and navigate to:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/InventoryManagement.git
+git clone https://github.com/samerrazzaqh/InventoryManagement.git
 cd InventoryManagement
 ```
 
